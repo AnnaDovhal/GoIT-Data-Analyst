@@ -9,8 +9,8 @@ Data Analyst course
 
 ## Projects
 
-### 1. SQL Exploratory Data Analysis
+### 1. PostgreSQL Cohort Analysis
 
-Exploratory data analysis using SQL
+Cohort Analysis using PostgreSQL
 
 [View project](./01_PostgreSQL)
