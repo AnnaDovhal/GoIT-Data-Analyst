@@ -86,13 +86,12 @@ The SQL analysis is organized into several steps:
 ## Project Files
 
 * `cohort_analysis.sql` — SQL query used to clean, transform, join, and aggregate the raw data.
-* `cohort_analysis.xlsx` — spreadsheet containing the next stage of the cohort analysis.
+* `cohort_analysis.xlsx` — spreadsheet containing the cohort tables and conclusion.
 * `README.md` — project documentation.
 
 ## Tools
 
 - PostgreSQL
-- SQL
 - Data Cleaning
 - Cohort Analysis
 - Exploratory Data Analysis
