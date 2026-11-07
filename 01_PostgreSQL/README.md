@@ -86,7 +86,9 @@ The SQL analysis is organized into several steps:
 ## Project Files
 
 * `cohort_analysis.sql` — SQL query used to clean, transform, join, and aggregate the raw data.
-* `cohort_analysis.xlsx` — spreadsheet containing the cohort tables and conclusion.
+* `cohort_analysis.xlsx` — spreadsheet containing the cohort tables and conclusion:
+<img width="1306" height="453" alt="image" src="https://github.com/user-attachments/assets/c49ee74d-8a96-4153-b182-2f319f77b3d1" />
+
 * `README.md` — project documentation.
 
 ## Tools
