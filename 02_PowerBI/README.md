@@ -68,7 +68,7 @@ The report includes four analytical pages:
 
 ### 1. Academic Performance Overview
 Provides a high-level overview of academic performance through KPI cards, subject and class comparisons, grade distribution, and geographical analysis.
-![Academic Performance Overview](Screenshots/dashboard_overview.png)
+![Academic Performance Overview](Screenshots/academic_performance_overview.png)
 
 ### 2. Class Performance
 Analyzes academic results across classes and assessment types, including average grades and negative grade statistics.
