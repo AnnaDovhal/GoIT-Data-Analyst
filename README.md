@@ -14,3 +14,9 @@ Data Analyst course
 Cohort Analysis using PostgreSQL
 
 [View project](./01_PostgreSQL)
+
+### 2. Academic Performance Analytics | Power BI
+
+An interactive Power BI dashboard for analyzing students' academic performance, grades, and trends over time.
+
+[View project](./02_PowerBI)
